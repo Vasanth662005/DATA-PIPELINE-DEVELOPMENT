@@ -115,3 +115,7 @@ These are essential components in real-world machine learning workflows.
 ## Submission
 
 This repository is submitted as Task 1 in fulfillment of the Data Science Internship at CODTECH. It showcases my ability to design, automate, and document a professional ETL process, which is a fundamental skill for any aspiring data scientist.
+
+## Output 
+
+![Image](https://github.com/user-attachments/assets/ddda8635-7879-4d35-8c63-98dfe893f285)
