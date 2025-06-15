@@ -119,3 +119,7 @@ This repository is submitted as Task 1 in fulfillment of the Data Science Intern
 ## Output 
 
 ![Image](https://github.com/user-attachments/assets/ddda8635-7879-4d35-8c63-98dfe893f285)
+
+![Image](https://github.com/user-attachments/assets/efe9e5d2-fe12-4efd-a0aa-dab65b06e7d9)
+
+![Image](https://github.com/user-attachments/assets/95aa8bfc-3fa5-4004-b0b1-9e44155f24a8)
